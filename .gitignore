@@ -151,3 +151,7 @@ cython_debug/
 
 # PyCharm files
 .idea/
+
+# pixi environments
+.pixi
+*.egg-info
